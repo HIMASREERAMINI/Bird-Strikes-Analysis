@@ -5,9 +5,9 @@ _BIRD STRIKES ANALYSIS - UM2_
  -> **Problem statement**
  Transport and communication are vital in analytics. Environmental impacts and safety concerns are significant, given the rise in vehicles and urbanization. Technologies and AI, particularly MAS, offer solutions to these challenges.
 
-A bird strike is a collision between a bird and an aircraft, often occurring during take-off, climb, approach, and landing. These incidents pose serious risks, especially to jet-engine aircraft.
+  A bird strike is a collision between a bird and an aircraft, often occurring during take-off, climb, approach, and landing. These incidents pose serious risks, especially to jet-engine aircraft.
 
- Power BI Python MS Excel
+ **Tools used:** Power BI Python MS Excel
 
 
 
