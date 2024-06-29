@@ -1,4 +1,4 @@
-# Amazon-sales-data-Analysis
+# VISUALIZATION OF BIRD STRIKES
 
 _BIRD STRIKES ANALYSIS - UM2_
 
